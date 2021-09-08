@@ -20,10 +20,15 @@
                 sollicitudin erat facilisis eget. Vestibulum rhoncus dui vel eros
                 laoreet consectetur. Vivamus eget elementum
               </h5>
+              <a
+                class="btn-lg mt-1 mx-3 btn-centered-md"
+                href="https://gdsc.community.dev/texas-tech-university/"
+                target="_blank"
+              >
+                Become a Member!
+              </a>
             </div>
           </div>
-
-
         </div>
       </section>
     </main>
